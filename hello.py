@@ -1,3 +1,3 @@
 ls
 ls
-git status!
+git echo git pull
